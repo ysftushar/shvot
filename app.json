@@ -6,9 +6,9 @@
       "bot",
       "shell"
     ],
-    "repository": "https://github.com/your own",
-    "website": "https://github.com/your own",
-    "success_url": "https://github.com/your own/blob/main/README.md",
+    "repository": "https://github.com/ysftushar/shvot",
+    "website": "https://github.com/ysftushar/shvot",
+    "success_url": "https://github.com/ysftushar/shvot",
     "stack": "container",
     "env": {
       "BOT_TOKEN": {
